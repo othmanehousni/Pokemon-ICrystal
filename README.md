@@ -46,15 +46,20 @@ Les combats peuvent être engagés avec des attaques ou peuvent finir par une fu
 
 
 
-## NOUVEAUX SPRITES : Une infirmière dans le Shop a été rajoutée, elle n’est pas interactable. Un vélo est maintenant accessible au joueur et lui permet d’aller plus vite en restant appuyé sur une certaine touche. Un autre Pokémon a aussi été ajouté, Raichu, qui apparaît dans l’inventaire après avoir combattu Garry.
+## NOUVEAUX SPRITES :
+Une infirmière dans le Shop a été rajoutée, elle n’est pas interactable. Un vélo est maintenant accessible au joueur et lui permet d’aller plus vite en restant appuyé sur une certaine touche. Un autre Pokémon a aussi été ajouté, Raichu, qui apparaît dans l’inventaire après avoir combattu Garry.
 
-## NOUVELLES CLASSES : la classe AfterWinningGarry a été créée. Elle implique simplement un nouveau dialogue de félicitations par l’assistant à la sortie de la maison. Les classes PokemonSelectionEvent, PokemonSelectionMenu et AfterPokemonSelectionFightAction ont été créés comme tentative d’introduction a un menu de sélection de pokémon mais en vain. Les classes Viridian[...] ont été rajoutées pour modéliser une nouvelle ville voisine à l’aire principale. BikingAnimation a été créée pour s’occuper de problèmes de taille de sprite en se basant simplement sur la classe du game engine qu'est OrientedAnimation sans changer le gameEngine.
+## NOUVELLES CLASSES :
+la classe AfterWinningGarry a été créée. Elle implique simplement un nouveau dialogue de félicitations par l’assistant à la sortie de la maison. Les classes PokemonSelectionEvent, PokemonSelectionMenu et AfterPokemonSelectionFightAction ont été créés comme tentative d’introduction a un menu de sélection de pokémon mais en vain. Les classes Viridian[...] ont été rajoutées pour modéliser une nouvelle ville voisine à l’aire principale. BikingAnimation a été créée pour s’occuper de problèmes de taille de sprite en se basant simplement sur la classe du game engine qu'est OrientedAnimation sans changer le gameEngine.
 
-## NOUVEAUX DIALOGUES : Tous les dialogues ont été changés de sorte à avoir une suite logique d'événements guidés par les dialogues qui évoluent avec le temps (avec le Chain Event)
+## NOUVEAUX DIALOGUES :
+Tous les dialogues ont été changés de sorte à avoir une suite logique d'événements guidés par les dialogues qui évoluent avec le temps (avec le Chain Event)
 
-## NOUVELLE AIRE : Une nouvelle map a été rajoutée tout à droite de la map, sa behavior map a été faite et ses aires secondaires (similaires à Town) ont aussi été créés
+## NOUVELLE AIRE :
+Une nouvelle map a été rajoutée tout à droite de la map, sa behavior map a été faite et ses aires secondaires (similaires à Town) ont aussi été créés
 
-## NOUVEAU SON : Un son d’introduction à un combat a été mis en place, il ne dure que 6 sec.
+## NOUVEAU SON :
+Un son d’introduction à un combat a été mis en place, il ne dure que 6 sec.
 
 
 Afin d’assurer le bonne complétion de tous les événements, il est conseillé que les événements se suivent de la sorte : 
