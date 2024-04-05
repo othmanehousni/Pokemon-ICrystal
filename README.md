@@ -1,5 +1,5 @@
-########
-README
+
+## README
 
 
 ## DESCRIPTION POKEICRYSTAL
@@ -41,9 +41,8 @@ Les combats peuvent être engagés avec des attaques ou peuvent finir par une fu
 
 
 
-
-        ################
-           CONCEPTION
+      
+## CONCEPTION
 
 
 
