@@ -65,10 +65,17 @@ Un son d’introduction à un combat a été mis en place, il ne dure que 6 sec.
 Afin d’assurer le bonne complétion de tous les événements, il est conseillé que les événements se suivent de la sorte : 
 
 Sortie maison, interaction assistante
+
 Interaction Prof Oak dans le Lab
+
 Interaction assistante expliquant l’endroit où se cache la balle
+
 Recuperation PokeBall
+
 Combat Garry
+
 Interaction assistante donnant alors un excellent cadeau
+
 Combat dans l’arene
+
 VISITE !
